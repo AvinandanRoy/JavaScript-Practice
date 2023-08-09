@@ -5,3 +5,11 @@
 // String type variable is : 
 let stringVariable = "Avinandan Roy";
 console.log(typeof(stringVariable)); // checking that its string vriable
+
+// bollean type variable 
+let isHumanExits = true;
+console.log(typeof(isHumanExits)); // checking that it's a bollean type variable
+
+// Number type variable
+let number1 = 1888;
+console.log(typeof(number1)); //checking that it's a number type variable 
